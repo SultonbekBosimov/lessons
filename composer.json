@@ -1,0 +1,12 @@
+{
+    "name": "jspi.info.uz/lessons",
+    "authors": [
+        {
+            "name": "Sultonbek",
+            "email": "sultonbek011197@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.35"
+    }
+}
